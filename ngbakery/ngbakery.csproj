@@ -142,7 +142,6 @@
     <Content Include="public\tsconfig.json" />
     <Content Include="public\build\bundles.json" />
     <Content Include="public\package.json" />
-    <Content Include="public\config.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
